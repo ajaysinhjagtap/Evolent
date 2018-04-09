@@ -1,0 +1,20 @@
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll.config
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.pdb
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll.config
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\Evolent.DataModel.pdb
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.dll
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.xml
+E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.csprojResolveAssemblyReference.cache
+E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.dll
+E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.pdb

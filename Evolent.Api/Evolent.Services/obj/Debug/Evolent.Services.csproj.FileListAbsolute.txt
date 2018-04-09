@@ -1,0 +1,27 @@
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.Services.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.Services.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.Entities.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.Entities.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\obj\Debug\Evolent.Services.csprojResolveAssemblyReference.cache
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\obj\Debug\Evolent.Services.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\obj\Debug\Evolent.Services.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\AutoMapper.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\EntityFramework.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.DataModel.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\Evolent.DataModel.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\EntityFramework.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\AutoMapper.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\AutoMapper.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.Services\bin\Debug\AutoMapper.Net4.pdb
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.Services.dll
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.Services.pdb
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\EntityFramework.dll
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.DataModel.dll
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.Entities.dll
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.DataModel.pdb
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\Evolent.Entities.pdb
+E:\Ajay\Evolent\Evolent.Services\bin\Debug\EntityFramework.xml
+E:\Ajay\Evolent\Evolent.Services\obj\Debug\Evolent.Services.csprojResolveAssemblyReference.cache
+E:\Ajay\Evolent\Evolent.Services\obj\Debug\Evolent.Services.dll
+E:\Ajay\Evolent\Evolent.Services\obj\Debug\Evolent.Services.pdb

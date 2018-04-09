@@ -1,0 +1,80 @@
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\csc.exe
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\vbc.exe
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.WebApi.dll.config
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.WebApi.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.WebApi.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.Entities.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.Services.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Web.Http.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.DataModel.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\AutoMapper.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\EntityFramework.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.Entities.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.Services.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Web.Http.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\Evolent.DataModel.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\EntityFramework.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\AutoMapper.pdb
+C:\Users\Sonam Jakune\Desktop\Evolent\Evolent.WebApi\bin\AutoMapper.xml
+E:\Ajay\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.csprojResolveAssemblyReference.cache
+E:\Ajay\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.dll
+E:\Ajay\Evolent\Evolent.WebApi\obj\Debug\Evolent.WebApi.pdb
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\csc.exe
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\vbc.exe
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\VBCSCompiler.exe
+E:\Ajay\Evolent\Evolent.WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.WebApi.dll.config
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.WebApi.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.WebApi.pdb
+E:\Ajay\Evolent\Evolent.WebApi\bin\EntityFramework.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\EntityFramework.SqlServer.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.Entities.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.Services.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Newtonsoft.Json.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Net.Http.Formatting.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Web.Http.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Web.Http.WebHost.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.DataModel.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\AutoMapper.dll
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.Entities.pdb
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.Services.pdb
+E:\Ajay\Evolent\Evolent.WebApi\bin\EntityFramework.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\EntityFramework.SqlServer.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\Newtonsoft.Json.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Net.Http.Formatting.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Web.Http.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\System.Web.Http.WebHost.xml
+E:\Ajay\Evolent\Evolent.WebApi\bin\Evolent.DataModel.pdb
