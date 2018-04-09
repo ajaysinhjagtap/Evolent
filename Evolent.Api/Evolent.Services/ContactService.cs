@@ -50,8 +50,8 @@ namespace Evolent.Services
             if (contacts.Any())
             {
                 Mapper.CreateMap<Contact, ContactEntity>();
-                var productsModel = Mapper.Map<List<Contact>, List<ContactEntity>>(contacts);
-                return productsModel;
+                var contactsModel = Mapper.Map<List<Contact>, List<ContactEntity>>(contacts);
+                return contactsModel;
             }
             return null;
         }
