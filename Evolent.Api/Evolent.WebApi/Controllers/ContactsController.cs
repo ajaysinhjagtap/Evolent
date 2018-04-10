@@ -28,7 +28,7 @@ namespace Evolent.WebApi.Controllers
         #region Public Constructor
 
         /// <summary>
-        /// Public constructor to initialize contact service instance
+        /// Public constructor to initialize Contact service instance
         /// </summary>
         public ContactsController()
         {
