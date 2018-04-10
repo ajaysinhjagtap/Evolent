@@ -106,11 +106,7 @@ E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Razor.dll
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Webpages.Deployment.dll
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Webpages.dll
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Webpages.Razor.dll
-E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\EntityFramework.xml
-E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\EntityFramework.SqlServer.xml
-E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\Evolent.Entities.pdb
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\Newtonsoft.Json.xml
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Razor.xml
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Webpages.xml
 E:\Ajay\Evolent_git\new\Evolent.Web\Evolent.Web\bin\System.Web.Webpages.Deployment.xml

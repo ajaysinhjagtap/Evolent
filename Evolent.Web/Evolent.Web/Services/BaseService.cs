@@ -2,6 +2,9 @@
 
 namespace Evolent.Web.Services
 {
+    /// <summary>
+    /// <see cref="BaseService"/> class.
+    /// </summary>
     public class BaseService
     {
         #region Variables

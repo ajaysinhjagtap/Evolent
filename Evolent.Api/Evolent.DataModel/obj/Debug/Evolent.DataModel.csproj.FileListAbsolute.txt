@@ -18,3 +18,13 @@ E:\Ajay\Evolent\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.xml
 E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.csprojResolveAssemblyReference.cache
 E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.dll
 E:\Ajay\Evolent\Evolent.DataModel\obj\Debug\Evolent.DataModel.pdb
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll.config
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\Evolent.DataModel.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\Evolent.DataModel.pdb
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\EntityFramework.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\EntityFramework.xml
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\obj\Debug\Evolent.DataModel.csprojResolveAssemblyReference.cache
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\obj\Debug\Evolent.DataModel.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.DataModel\obj\Debug\Evolent.DataModel.pdb

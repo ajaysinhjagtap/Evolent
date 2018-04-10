@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using Evolent.Entities;
 using Evolent.DataModel.UnitOfWork;
 using System.Linq;
-using AutoMapper;
 using Evolent.DataModel;
 using System.Transactions;
+using AutoMapper;
 
 #endregion
 
@@ -50,8 +50,8 @@ namespace Evolent.Services
             if (contacts.Any())
             {
                 Mapper.CreateMap<Contact, ContactEntity>();
-                var productsModel = Mapper.Map<List<Contact>, List<ContactEntity>>(contacts);
-                return productsModel;
+                var contactsModel = Mapper.Map<List<Contact>, List<ContactEntity>>(contacts);
+                return contactsModel;
             }
             return null;
         }

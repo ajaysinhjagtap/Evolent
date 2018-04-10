@@ -7,3 +7,7 @@ E:\Ajay\Evolent\Evolent.Entities\bin\Debug\Evolent.Entities.dll
 E:\Ajay\Evolent\Evolent.Entities\bin\Debug\Evolent.Entities.pdb
 E:\Ajay\Evolent\Evolent.Entities\obj\Debug\Evolent.Entities.dll
 E:\Ajay\Evolent\Evolent.Entities\obj\Debug\Evolent.Entities.pdb
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.Entities\bin\Debug\Evolent.Entities.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.Entities\bin\Debug\Evolent.Entities.pdb
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.Entities\obj\Debug\Evolent.Entities.dll
+E:\Ajay\Evolent_git\new\Evolent.Api\Evolent.Entities\obj\Debug\Evolent.Entities.pdb

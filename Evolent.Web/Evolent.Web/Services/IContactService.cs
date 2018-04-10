@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 
 namespace Evolent.Web.Services
 {
+    /// <summary>
+    /// <see cref="IContactService"/> interface.
+    /// </summary>
     public interface IContactService
     {
         Task<IEnumerable<ContactEntity>> GetAllContacts();
